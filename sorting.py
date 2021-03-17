@@ -1,6 +1,8 @@
 #!/bin/python3
+import random
+
 '''
-Edit2
+Edit3
 '''
 
 '''
@@ -14,8 +16,6 @@ If cmp(a, b) returns -1, then a < b;
 if cmp(a, b) returns  1, then a > b;
 if cmp(a, b) returns  0, then a == b.
 '''
-
-import random
 
 
 def cmp_standard(a, b):
